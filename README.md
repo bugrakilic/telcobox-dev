@@ -1,2 +1,3 @@
 # telcobox-dev
- telcobox.net development 
+
+Telcobox development repo, where all kinds of related scripts are stored and maintained. 
